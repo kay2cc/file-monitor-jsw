@@ -1,0 +1,3 @@
+UploadFileUtil.checkFileTask = * * * * * *
+
+#UploadFileUtil.checkFileTask = 30 1 * * * *

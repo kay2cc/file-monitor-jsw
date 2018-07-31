@@ -1,0 +1,7 @@
+phone.file.path = D:\\dpds
+queue = 3
+cms.endpoint = http://192.168.0.77:6080/cms
+cms.accKey = fc8c2e8767db8f2a42eb3498828c0089
+cms.secretKey = 3lBCncYVMqVpBAvTZcS6Nl0qey49RMjdGCv2SMOLz4C9U8QU8AzSlHGZaKXBx7z8
+cms.bucket = dpds-phone
+param.uploader = phone
